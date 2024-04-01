@@ -15,6 +15,6 @@ public class HandleHiddenWebElement {
 		driver.get("https://www.facebook.com/");
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 
-	}
+	} 
 
 }
